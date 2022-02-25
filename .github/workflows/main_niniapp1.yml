@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'niniapp1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AB74F050542C41E782B5299869CD42C2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2623F9A5B0BE4A4B8055D20108667E67 }}
           package: .
