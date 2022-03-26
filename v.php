@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
 
 <?php
 $txt = "Hello world!";
@@ -13,6 +10,3 @@ echo $x;
 echo "<br>";
 echo $y;
 ?>
-
-</body>
-</html>
